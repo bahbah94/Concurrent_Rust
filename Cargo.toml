@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "spinlock",
+    # You'll add more here later
+]
